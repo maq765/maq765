@@ -4,7 +4,7 @@ Sure! Crafting a captivating GitHub profile README is a great way to make a memo
 
 # Hi there! 👋 I'm Md. Ammaar Quadri
 
-![Wave GIF](https://media.giphy.com/media/3o6ZsXbxa4VmNrSAoA/giphy.gif) 
+![Wave GIF]([https://media.giphy.com/media/gif3o6ZsXbxa4VmNrSAoA/giphy.](https://imgur.com/your-uploaded-gif-link.gif)) 
 
 ## 🌟 About Me
 
@@ -67,7 +67,7 @@ In my free time, I dive into the realms of front-end and back-end development. I
 
 Feel free to reach out if you have any opportunities or just want to discuss tech! You can connect with me through:
 
-- LinkedIn : (https://www.linkedin.com/in/ammaarquadri)
-- Email : (mailto:21e41a3312@sreedattha.ac.in)
+- LinkedIn : https://www.linkedin.com/in/ammaarquadri
+- Email : mailto :21e41a3312@sreedattha.ac.in
 
 Looking forward to connecting with you and exploring how we can collaborate!
