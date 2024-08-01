@@ -15,7 +15,7 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
 - **Frameworks & Tools:** Spring Boot, Django, Flask, React
 - **Passionate about:** Exploring new technologies, continuous learning, and problem-solving
 
-## 💼 Experience
+## 💼 Achievements
 
 ### Topperworld:-
 *Artificial Intelligence Intern*  
