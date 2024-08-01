@@ -1,7 +1,7 @@
 
-# Hi there! 👋 I'm Md. Ammaar Quadri
+# Hi there! ![Wave GIF](https://github.com/maq765/maq765/blob/main/wave.gif) I'm Md. Ammaar Quadri
 
-![Wave GIF](https://github.com/maq765/maq765/blob/main/wave.gif)
+
 
 ## 🌟 About Me
 
