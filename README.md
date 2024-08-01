@@ -1,10 +1,7 @@
-Sure! Crafting a captivating GitHub profile README is a great way to make a memorable first impression. Here’s a draft for your GitHub profile README that includes an engaging introduction, highlights your skills, and showcases your experience in a professional and appealing manner.
-
----
 
 # Hi there! 👋 I'm Md. Ammaar Quadri
 
-![Wave GIF]([https://media.giphy.com/media/gif3o6ZsXbxa4VmNrSAoA/giphy.](https://imgur.com/your-uploaded-gif-link.gif)) 
+![Wave GIF](https://github.com/maq765/maq765/blob/main/wave.gif)
 
 ## 🌟 About Me
 
