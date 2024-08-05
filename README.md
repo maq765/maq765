@@ -4,16 +4,19 @@
 
 ## 🌟 About Me
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <p>
-      I’m a passionate <strong>Software Engineering Intern</strong> based in Hyderabad, Telangana, India, with a fervent enthusiasm for coding and technology. With a Bachelor's degree in Computer Science and Information Technology from Sree Dattha Group of Institutions, I’m actively seeking opportunities to apply my skills in <strong>Java, Python, and MySQL</strong>.
-    </p>
-  </div>
-  <div style="flex-shrink: 0; margin-left: 10px;">
-    <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="width: 100px; height: auto;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <p>
+        I’m a passionate <strong>Software Engineering Intern</strong> based in Hyderabad, Telangana, India, with a fervent enthusiasm for coding and technology. With a Bachelor's degree in Computer Science and Information Technology from Sree Dattha Group of Institutions, I’m actively seeking opportunities to apply my skills in <strong>Java, Python, and MySQL</strong>.
+      </p>
+    </td>
+    <td style="vertical-align: top; width: 30%;">
+      <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="width: 100px; height: auto;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
