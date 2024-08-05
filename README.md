@@ -71,7 +71,7 @@ Feel free to reach out if you have any opportunities or just want to discuss tec
 </p>
 
 <div style="text-align: center;">
-  ![Animated Image](https://github.com/maq765/maq765/raw/main/M.A.Q..png)
+  ![Logo](https://github.com/maq765/maq765/raw/main/M.A.Q..png)
 </div>
 
 
