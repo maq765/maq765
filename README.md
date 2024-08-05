@@ -6,8 +6,8 @@
 
 I’m a passionate **Software Engineering Intern** based in Hyderabad, Telangana, India, with a fervent enthusiasm for coding and technology. With a Bachelor's degree in Computer Science and Information Technology from Sree Dattha Group of Institutions, I’m actively seeking opportunities to apply my skills in **Java, Python, and MySQL**.
 
-https://github.com/maq765/maq765/raw/main/M.A.Q..png
-<img src="(https://github.com/maq765/maq765/raw/main/M.A.Q..png)" alt="Wave GIF" width="30" height="30">
+<img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="float: left; margin-right: 10px;" />
+
 I thrive on tackling innovative projects and relish the chance to learn from experienced professionals. Whether it’s front-end, back-end, or full-stack development, I’m always eager to dive into new challenges and enhance my skill set.
 
 ## 🚀 What I Do
