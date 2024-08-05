@@ -66,14 +66,14 @@ Feel free to reach out if you have any opportunities or just want to discuss tec
 - LinkedIn : https://www.linkedin.com/in/ammaarquadri
 - Email : mailto :21e41a3312@sreedattha.ac.in
 
-**<p>
+<p>
   Looking forward to connecting with you and exploring how we can collaborate.
 </p>
 
 <div align="center">
   <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" width="150"/>
 </div>
-**
+
 
 
 
