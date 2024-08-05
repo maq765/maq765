@@ -69,9 +69,11 @@ Feel free to reach out if you have any opportunities or just want to discuss tec
 <p>
   Looking forward to connecting with you and exploring how we can collaborate.
 </p>
+
 <div style="text-align: center;">
-  <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="width: 100px; height: auto;" />
+  ![Animated Image](https://github.com/maq765/maq765/raw/main/M.A.Q..png)
 </div>
+
 
 
 
