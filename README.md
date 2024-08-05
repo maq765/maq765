@@ -70,13 +70,8 @@ Feel free to reach out if you have any opportunities or just want to discuss tec
   Looking forward to connecting with you and exploring how we can collaborate.
 </p>
 <div style="text-align: center;">
-  <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="width: 100px; height: auto; animation: move 5s infinite alternate;" />
+  <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" style="width: 100px; height: auto;" />
 </div>
-<style>
-  @keyframes move {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(100px); }
-  }
-</style>
+
 
 
