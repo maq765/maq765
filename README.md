@@ -27,6 +27,25 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
 - **Frameworks & Tools:** Spring Boot, Django, Flask, React
 - **Passionate about:** Exploring new technologies, continuous learning, and problem-solving
 
+## 🎓 Education
+
+- **Sree Dattha Group of Institutions**  
+  Bachelor of Technology (BTech) in Computer Science and Information Technology (CSIT)  
+  _2021 - 2025_
+
+- **Sri Chaitanya College of Education**  
+  M.P.C.  
+  _July 2019 - May 2021_
+
+- **B.R.J.C. Parsi High School, Parklane, Secunderabad**  
+  SSC  
+  _2009 - 2019_
+
+## 🌱 My Hobbies
+
+In my free time, I dive into the realms of front-end and back-end development. It’s not just a profession but a hobby I deeply enjoy. From experimenting with new frameworks to designing interactive web pages, I find joy in every aspect of coding.
+
+
 ## 💼 Achievements
 
 ### Topperworld:-
@@ -53,23 +72,6 @@ _March 2024 - April 2024 (2 months)_
 *SQL Programmer*  
 _July 2022 - August 2022 (2 months)_
 
-## 🎓 Education
-
-- **Sree Dattha Group of Institutions**  
-  Bachelor of Technology (BTech) in Computer Science and Information Technology (CSIT)  
-  _2021 - 2025_
-
-- **Sri Chaitanya College of Education**  
-  M.P.C.  
-  _July 2019 - May 2021_
-
-- **B.R.J.C. Parsi High School, Parklane, Secunderabad**  
-  SSC  
-  _2009 - 2019_
-
-## 🌱 My Hobbies
-
-In my free time, I dive into the realms of front-end and back-end development. It’s not just a profession but a hobby I deeply enjoy. From experimenting with new frameworks to designing interactive web pages, I find joy in every aspect of coding.
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
