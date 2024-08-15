@@ -190,7 +190,7 @@ In my free time, I dive into the realms of front-end and back-end development. I
     <img src="https://komarev.com/ghpvc/?username=maq765&style=for-the-badge">
 </a>
 
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)]
+![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <div align="center">
   <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" width="150"/>
